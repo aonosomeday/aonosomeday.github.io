@@ -1,3 +1,8 @@
+html {
+  margin-left: .5rem;
+  margin-right: .5rem;
+}
+
 h1, h2 {
   font-family: "Verdana", "Arial", sans-serif;
 }
@@ -11,7 +16,6 @@ dl {
   display: grid;
   grid-template-columns: auto 1fr;
   gap: .2em 1em;
-  margin: 1rem;
 }
 
 dd {
@@ -22,3 +26,8 @@ dd {
   max-width: 16rem;
 }
 
+.cc-icon {
+  max-width: 1em;
+  max-height: 1em;
+  margin-left: .2em;
+}
