@@ -1,4 +1,8 @@
-header {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+h1, h2 {
+  font-family: "Verdana", "Arial", sans-serif;
+}
+
+h2 {
+  border-left: 1rem solid rgb(178, 178, 178);
+  padding-left: .5rem;
 }
