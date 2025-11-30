@@ -31,3 +31,22 @@ dd {
   max-height: 1em;
   margin-left: .2em;
 }
+
+#lang-selector > ul {
+  list-style: none;
+  display: inline;
+  padding: 0;
+}
+
+#lang-selector > ul > li {
+  display: inline;
+}
+
+#lang-selector .active {
+  font-weight: bold;
+  color: #333;
+}
+
+dl dt, dl dd {
+  line-height: 1.5;
+}
