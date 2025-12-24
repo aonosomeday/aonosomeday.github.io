@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/aonosomeday
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://aonosomeday.github.io
+  * I am aonosomeday (https://keybase.io/aonosomeday) on keybase.
+  * I have a public key ASAFb_fY9SbBLjvUuwta3oBrmhHDulOTJTCRFctmTtXuVAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205cefdfea641bc086c1f0750b36097c8a09f75b8de33096ae08cc5f87b968dbec0a",
+      "host": "keybase.io",
+      "kid": "0120056ff7d8f526c12e3bd4bb0b5ade806b9a11c3ba539325309115cb664ed5ee540a",
+      "uid": "ccec947c21a9375a074c65e64bd1c519",
+      "username": "aonosomeday"
+    },
+    "merkle_root": {
+      "ctime": 1766539210,
+      "hash": "e8c88dc8cd11574fc9b3b2d3ce893813e1d2c1914e1d39621b453b6ab67e275c0b73ab8ade4c3c040655b6695b70cbba5653f00b4830d2fe4bc3f53b28fd0081",
+      "hash_meta": "0e39f7b5f043328e79c629fcb06afc273ba154d1191e42c0a9c6f95c6e0d0f2b",
+      "seqno": 27308335
+    },
+    "service": {
+      "entropy": "zOjxBImbFfVypLXxplpnGpqK",
+      "hostname": "aonosomeday.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.5.1"
+  },
+  "ctime": 1766539485,
+  "expire_in": 504576000,
+  "prev": "3b8732e2b9a5f684653b314b01cc177650e180a74a35e2ed48b06242a1dbd0d1",
+  "seqno": 32,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgBW/32PUmwS471LsLWt6Aa5oRw7pTkyUwkRXLZk7V7lQKp3BheWxvYWTESpcCIMQgO4cy4rml9oRlOzFLAcwXdlDhgKdKNeLtSLBiQqHb0NHEIHemQ9G1Abi1lzt9GDVgXxV4OTB3ZpwLN44AxCw1CvXzAgHCo3NpZ8RAAGTP8giJ5ep031Bt3r5CpHKAwKnwQDZa5qBvsx6VlJ3msxbsAyPTB5xXz6PFCcLEH18k+KEk02/5gt+rqsv2AKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBQ74ng6yKSAi8cm8f/YXbv3trc8qjm7dfnSKQ3eaXBKo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aonosomeday
+
+==================================================================
