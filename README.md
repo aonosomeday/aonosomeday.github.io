@@ -6,4 +6,4 @@ This is @aonosomeday's website.
 
 This repository is licensed under [CC BY-SA 4.0](https://raw.githubusercontent.com/aonosomeday/aonosomeday.github.io/refs/heads/main/LICENSE).
 
-© 2025 aonosomeday.
+&copy; 2025 aonosomeday.
