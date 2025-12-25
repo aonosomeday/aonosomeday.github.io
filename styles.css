@@ -3,8 +3,12 @@ html {
   margin-right: .5rem;
 }
 
+body {
+  font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "BIZ UDPGothic", Meiryo, sans-serif;
+}
+
 h1, h2 {
-  font-family: "Verdana", "Arial", sans-serif;
+  font-family: "Verdana", "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "BIZ UDPGothic", Meiryo, sans-serif
 }
 
 h2 {
